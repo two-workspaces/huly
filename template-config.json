@@ -1,7 +1,7 @@
 {
   "services": {
     "96199ece-dc53-458c-9656-a7c1fc56c4cb": {
-      "icon": "https://raw.githubusercontent.com/nomideusz/huly-railway/main/icon.svg",
+      "icon": "https://raw.githubusercontent.com/two-workspaces/huly/main/icon.svg",
       "name": "Huly",
       "build": {},
       "deploy": {
@@ -11,7 +11,7 @@
         "restartPolicyMaxRetries": 10
       },
       "source": {
-        "repo": "https://github.com/nomideusz/huly-railway"
+        "repo": "https://github.com/two-workspaces/huly"
       },
       "networking": {
         "serviceDomains": {

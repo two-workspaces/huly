@@ -34,7 +34,7 @@ Upstream's `hulykvs` container is left out because none of the services in this 
 
 - [Huly self-host repository](https://github.com/hcengineering/huly-selfhost)
 - [Huly platform on GitHub](https://github.com/hcengineering/platform)
-- [Template source on GitHub](https://github.com/nomideusz/huly-railway)
+- [Template source on GitHub](https://github.com/two-workspaces/huly)
 
 ### Implementation Details
 
